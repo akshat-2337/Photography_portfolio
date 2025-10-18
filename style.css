@@ -4,14 +4,24 @@
     
 }
 
+h1{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+
 #photo #ptxt{
     position: relative;
-    color: #f4ba27;
+    color: #fceb2f; 
     top: -700px;
     left: 600px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
-    
+    opacity: 100%;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
 }
+
+
 body{
     background-color: rgb(36, 36, 37);
     overflow: hidden;
