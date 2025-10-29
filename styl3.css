@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(36,36,37);
+    color: white;
+    overflow-x: hidden;
+}
+
+.instagram{
+    font-size: larger;
+    position: relative;
+    left: 100px;
+    top: 135px;
+}
+
+.Twit{
+    font-size: larger;
+    position: relative;
+    left: 135px;
+    top: 175px;
+}
+
+.mail{
+    position: relative;
+    left: 135px;
+    top: 210px;
+}

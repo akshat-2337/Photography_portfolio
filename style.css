@@ -1,6 +1,7 @@
+
 #photo{
     position: relative;
-    opacity: 70%;
+    opacity: 100%;
     
 }
 
@@ -13,10 +14,9 @@ h1{
 
 #photo #ptxt{
     position: relative;
-    color: #fceb2f; 
+    color: #ffffff; 
     top: -700px;
     left: 600px;
-    opacity: 100%;
     font-family: 'Inter', sans-serif;
     font-weight: 400;
 }
